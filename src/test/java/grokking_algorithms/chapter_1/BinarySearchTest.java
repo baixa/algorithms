@@ -11,14 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 class BinarySearchTest {
 
-    @BeforeEach
-    void setUp() {
-    }
-
-    @AfterEach
-    void tearDown() {
-    }
-
     /**
      * Проверяет базовый функционал метода:
      *  <ul>
